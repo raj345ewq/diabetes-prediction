@@ -26,13 +26,13 @@ Overall, the notebook demonstrates how machine learning can be used to develop a
 ### ✅Test Different Models and find the best model out of it
 
 
-- [x]LR: 0.848684 (0.036866)
-- [x]KNN: 0.840789 (0.023866)
-- [x]CART: 0.857895 (0.024826)
-- [x]RF: 0.881579 (0.026316)
-- [x]SVM: 0.853947 (0.036488)
-- [x]XGB: 0.890789 (0.020427)
-- [x]LightGBM: 0.885526 (0.024298)
+- [x] LR: 0.848684 (0.036866)
+- [x] KNN: 0.840789 (0.023866)
+- [x] CART: 0.857895 (0.024826)
+- [x] RF: 0.881579 (0.026316)
+- [x] SVM: 0.853947 (0.036488)
+- [x] XGB: 0.890789 (0.020427)
+- [x] LightGBM: 0.885526 (0.024298)
 
 
 ### ✅Save the model
